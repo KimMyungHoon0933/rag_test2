@@ -9,7 +9,6 @@ langsmith==0.1.147
 transformers==4.40.2
 sentence-transformers==2.7.0
 torch==2.5.0
-faiss-cpu==1.8.0
 pypdf==4.2.0
 pypdfium2==4.30.0
 tiktoken==0.9.0
