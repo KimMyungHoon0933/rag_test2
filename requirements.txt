@@ -14,5 +14,5 @@ pypdfium2==4.30.0
 tiktoken==0.9.0
 pydantic>=2.7.4,<2.12         
 loguru==0.7.2
-langserve==0.2.3
+langserve==0.3.1
 
