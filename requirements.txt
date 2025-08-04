@@ -5,7 +5,7 @@ langchain-community==0.0.31
 langchain-cli==0.0.36
 langchain-text-splitters==0.0.2
 langchainhub==0.1.17
-langsmith==0.0.84         
+langsmith==0.1.147     
 transformers==4.40.2
 sentence-transformers==2.7.0
 torch==2.5.0
@@ -13,6 +13,7 @@ faiss-cpu==1.8.0
 pypdf==4.2.0
 pypdfium2==4.30.0
 tiktoken==0.6.0
-pydantic==1.10.22         
+pydantic>=2.7.4,<2.12         
 loguru==0.7.2
 langserve==0.2.3
+
